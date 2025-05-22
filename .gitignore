@@ -10,3 +10,7 @@ __pycache__/
 
 # Environment variables
 .env
+
+# DB files
+db.sqlite3
+
